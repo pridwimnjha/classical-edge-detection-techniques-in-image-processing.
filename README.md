@@ -287,9 +287,3 @@ sgtitle('Edge Detection Results using Sobel Operator', 'FontSize', 14);
 | **Sobel**   | Strong         | Medium            | Clear object boundaries    |
 
 ---
-
-
-
-
-Would you like me to make a **GitHub folder structure suggestion** (like `/images`, `/docs`, `/matlab_codes`, `/results`) and add links inside the README for neat organization?
-```
